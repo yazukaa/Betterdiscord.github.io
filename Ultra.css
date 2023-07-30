@@ -2,49 +2,6 @@
     --version: "1.0.7";
 }
 
-.container-YkUktl .avatar-1EWyVD.wrapper-1VLyxH * {
-    overflow: visible;
-}
-
-svg.cursorDefault--wfhy5 {
-    display: block !important;
-    overflow: visible;
-}
-
-.member-48YF_l,
-.members-3WRCEx {
-    background: transparent;
-}
-
-.member-2gU6Ar .dots-1BwzZQ circle,
-.channel-1Shao0 .dots-1BwzZQ circle {
-    cy: -18.5px;
-    overflow: visible;
-    color: var(--background-primary);
-}
-
-.member-2gU6Ar .dots-1BwzZQ circle:nth-child(odd),
-.channel-1Shao0 .dots-1BwzZQ circle:nth-child(odd) {
-    display: none;
-}
-
-.member-2gU6Ar .channel-1Shao0 svg.dots-1BwzZQ,
-.channel-1Shao0 svg.dots-1BwzZQ {
-    overflow: visible;
-}
-
-.lookInverted-2mDUMi .contents-3ca1mk {
-    color: var(--brand-experiment);
-}
-
-.selected-2Uns2B {
-    background-color: var(--brand-experiment) !important;
-}
-
-[mask="url(#svg-mask-status-online-mobile)"] {
-    height: 15px !important;
-}
-
 [class^="socialLinks-"] + [class^="info-"] > span:first-child::before {
     content: "Ultra " var(--version);
     position: relative;
@@ -91,12 +48,6 @@ svg.cursorDefault--wfhy5 {
 
 .tabs-1RhQha {
     border-bottom: none !important;
-}
-
-.headerText-3g1XK9 .overflow-1wOqNV {
-    text-transform: uppercase !important;
-    font-weight: 700 !important;
-    font-size: 12px;
 }
 
 .container-1zzFcN {
