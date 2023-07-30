@@ -692,6 +692,12 @@ code {
     margin: -7px;
 }
 
+.avatar-3QF_VA::before {
+    height: 136px;
+    width: 136px;
+    margin: -8px;
+}
+
 .userPopout-2j1gM4 [class^="avatarWrapper"] .wrapper-1VLyxH,
 .avatarHint-k7pYop {
     top: 9px;
