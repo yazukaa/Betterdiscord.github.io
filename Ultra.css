@@ -1,34 +1,7 @@
 :root {
     --version: "1.0.7";
 }
-.card-14SgW5 {
-    background: #101014 !important;
-}
 
-.theme-dark.navRow-dG-XX8 {
-    background: #17161b !important;
-}
-
-.divider-vv_iHh {
-    border-bottom: 1px solid transparent !important;
-}
-
-.roleContainer-WStCpt {
-    background: transparent !important;
-}
-
-.callContainer-BGIngG .content-2a4AW9 {
-    background-color: transparent !important;
-}
-
-#MemberCount,
-#MemberCount .membersGroup-2eiWxl {
-    background-color: var(--background-primary) !important;
-}
-
-.header-2Kx1US.ChannelDms-channelmembers-header.topPill-3DJJNV {
-    background: var(--background-primary) !important;
-}
 
 .bannerSVGWrapper-qc0szY mask {
     display: none;
@@ -44,12 +17,6 @@
     height: 94px;
     width: 94px;
     margin: -7px;
-}
-
-.avatar-3QF_VA::before {
-    height: 136px;
-    width: 136px;
-    margin: -8px;
 }
 
 .userPopout-2j1gM4 [class^="avatarWrapper"] .wrapper-1VLyxH,
